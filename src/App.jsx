@@ -2,6 +2,9 @@ import Q1 from "./Ex12/Q1"
 import Q2 from "./Ex12/Q2"
 import Q3 from "./Ex12/Q3"
 import Q4 from "./Ex12/Q4"
+import Q5 from "./Ex12/Q5"
+import Q6 from "./Ex12/Q6"
+
 
 
 function App () {
@@ -31,6 +34,21 @@ function App () {
       <Q4 />
       <br/>
       <br/>
+      <p>
+        Ex12 - Q5
+      </p>
+      <Q5 />
+      <br/>
+      <br/>
+      <p>
+        Ex12 - Q6
+      </p>
+      <Q6 />
+      <br/>
+      <br/>
+      <p>
+        Ex12 - Q7
+      </p>
     </div>
   )
 }
