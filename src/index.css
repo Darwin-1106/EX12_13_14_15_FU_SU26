@@ -109,3 +109,15 @@ code {
   padding: 4px 8px;
   background: var(--code-bg);
 }
+
+/* Q4_13 - ValidatedInput styles */
+input.error {
+  border: 2px solid red;
+  outline: none;
+}
+
+.error-message {
+  color: red;
+  font-size: 14px;
+  margin-top: 4px;
+}
